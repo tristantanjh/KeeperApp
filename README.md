@@ -25,7 +25,7 @@ The following technologies and tools were used to develop KeeperApp:
 - React Hooks
 - Material-UI
 
-## Getting Started
+## Installation
 
 To run KeeperApp locally on your machine, follow these steps:
 
@@ -46,12 +46,18 @@ cd KeeperApp
 npm install
 ```
 
-4. Start the development server:
+4. Install Nodemon (if not already installed):
+```bash
+npm install -g nodemon
+```
+
+5. Start the development server:
 
 ```bash
-npm start
+nodemon
 ```
-5. Open your browser and visit http://localhost:3000 to access KeeperApp.
+
+6. Open your browser and visit http://localhost:3000 to access KeeperApp.
 
 ## Usage
 
