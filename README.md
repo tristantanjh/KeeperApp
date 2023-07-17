@@ -2,6 +2,8 @@
 
 KeeperApp is a simple note-taking application that allows you to jot down your thoughts, ideas, and important information quickly and easily. It was created as part of the "Complete 2023 Web Development Bootcamp" by Angela Yu.
 
+<img src="https://drive.google.com/uc?export=view&id=1j4easVBbDG5uDlmGsnjhmamGv3z_kcz4"> 
+
 Try the app out here: [KeeperApp](https://tristantanjh.github.io/KeeperApp/)
 
 ## Features
